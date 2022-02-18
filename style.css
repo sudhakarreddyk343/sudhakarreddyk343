@@ -1,0 +1,215 @@
+
+
+
+.subdiv{
+    display: flex;
+    padding-left: 200px;
+    background-color: blue;
+    height: 75px;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+div.search{
+    padding: 24px 200px 23px 11px;
+}
+div.search form input{
+    width: 441px;
+    padding: 6px;
+}
+.header h2{
+    color: white;
+
+}
+.header{
+    padding-top: 6px
+}
+div.dropdown{
+    padding-top: 24px;
+}
+.more{
+    padding: 27px 133px;
+
+}
+.more p{
+    color:white;
+}
+.crt{
+    padding: 30px 0px 10px 20px;
+    
+}
+div.crt p{
+    color: white;
+}
+@media only screen and (max-width: 600px) {
+    .subdiv {
+      width: 20%;
+    }
+  }
+  div.dropdown button{
+    width: 87px;
+    height: 28px;
+  }
+ 
+  .subdiv2 ul{
+      display: flex;
+      list-style-type: none;
+  }
+  .subdiv2 ul li img{
+      height: 66px;
+      padding: 1px 42px 7px 41px;
+  }
+  .names ul{
+      display: flex;
+      list-style-type: none;
+      position: relative;
+      top: -20px;
+  }
+  .names ul li a{
+    padding: 0px 44px 0px 42px;
+    text-decoration: none;
+    color: black;
+  }
+  .names ul li a:hover{
+      color: blue;
+      
+      
+  }
+ 
+  
+  .item img{
+      width: 100%;
+  }
+  div.carousel-inner{
+    border: 5px solid lightgrey;
+  }
+i{
+    position: absolute;
+    left: 726px;
+    padding-top: 10px;
+}
+ .lefticon{
+    position: absolute;
+    left: 24px;
+    top: 142px;
+    background-color: white;
+}
+.righticon{
+    position: absolute;
+    right: 22px;
+    top: 142px
+}
+.subdiv3{
+    border: 10px solid lightgrey;
+    border-bottom: 3px solid lightgrey;
+}
+.sub1{
+    padding-left: 10px;
+}
+.sub2 ul{
+    display: flex;
+      list-style-type: none;
+}
+.sub2{
+    border: 10px solid lightgrey;
+}
+.sub2 ul li{
+    padding: 19px;
+}
+.fnames{
+    padding: 12px 38px 18px 8px;
+}
+.fnames{
+    display: flex;
+    
+}
+.fnames p{
+    padding-left: 140px;
+    position: relative;
+    top: -20px;
+}
+.footnames{
+    display: flex;
+    padding-left: 58px;
+    position: relative;
+    top: -16px;
+}
+.name1{
+    font-weight: bold;
+}
+.name2{
+    padding-left: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.name3{
+    padding-left: 32px;
+    font-weight: bold;
+}
+.name4{
+    padding-left: 32px;
+    font-weight: bold;
+}
+.name5{
+    padding-left: 32px;
+    font-weight: bold;
+}
+.name6{
+    padding-left: 32px;
+    font-weight: bold;
+}
+.name7{
+    padding-left: 32px;
+    font-weight: bold;
+}
+.fdic{
+    display: flex;
+    padding-left: 58px;
+    position: relative;
+    top: -9px;
+}
+.dc1{
+    padding-left: 34px;
+    color: lightgreen;
+}
+.dc2{
+    padding-left: 113px;
+    color: lightgreen;
+}
+.dc3{
+    padding-left: 113px;
+    color: lightgreen;
+}
+.dc4{
+    padding-left: 113px;
+    color: lightgreen;
+}
+.dc5{
+    padding-left: 113px;
+    color: lightgreen;
+}
+.dc6{
+    padding-left: 113px;
+    color: lightgreen;
+}
+.dc7{
+    padding-left: 113px;
+    color: lightgreen;
+}
+.cloths{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    border: 10px solid lightgrey;
+    position: relative;
+    top: 1px;
+}
+.cl1 p{
+    padding: 25px;
+    font-weight: bold;
+}
+.mhead{
+    padding:1px 23px;
+    border-bottom: 1px solid lightgray;
+    border: 10px solid lightgray;
+}
