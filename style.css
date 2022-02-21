@@ -206,10 +206,19 @@ i{
 }
 .cl1 p{
     padding: 25px;
-    font-weight: bold;
+    
+    
 }
 .mhead{
     padding:1px 23px;
     border-bottom: 1px solid lightgray;
     border: 10px solid lightgray;
+}
+.price{
+    position: relative;
+    top: -47px;
+    
+}
+p.price{
+    padding-left: 40px;
 }
