@@ -80,9 +80,7 @@ div.crt p{
   .item img{
       width: 100%;
   }
-  div.carousel-inner{
-    border: 5px solid lightgrey;
-  }
+  
 i{
     position: absolute;
     left: 726px;
@@ -100,8 +98,8 @@ i{
     top: 142px
 }
 .subdiv3{
-    border: 10px solid lightgrey;
-    border-bottom: 3px solid lightgrey;
+    border-top: 11px solid #F5F5F5;
+   
 }
 .sub1{
     padding-left: 10px;
@@ -111,7 +109,7 @@ i{
       list-style-type: none;
 }
 .sub2{
-    border: 10px solid lightgrey;
+    border-top: 1px solid #F5F5F5;
 }
 .sub2 ul li{
     padding: 19px;
@@ -200,7 +198,7 @@ i{
     display: flex;
     padding: 20px;
     justify-content: space-between;
-    border: 10px solid lightgrey;
+
     position: relative;
     top: 1px;
 }
@@ -211,8 +209,7 @@ i{
 }
 .mhead{
     padding:1px 23px;
-    border-bottom: 1px solid lightgray;
-    border: 10px solid lightgray;
+  
 }
 .price{
     position: relative;
@@ -221,4 +218,8 @@ i{
 }
 p.price{
     padding-left: 40px;
+}
+.mhead{
+    border-top: 8px solid #F5F5F5;
+    border-bottom: 1px solid #F5F5F5;
 }
